@@ -24,10 +24,10 @@ class Content extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        Counter('6488082'),
-        Counter('Soravit'),
+        Counter('6488076'),
+        Counter('Thanabhumi Santithanaviglai'),
         Counter('Home Fitness Pro'),
-        Counter('6488055,6488076,6488082,6488101'),
+        Counter('6488076 6488055 6488101 6488082'),
       ],
     );
   }
